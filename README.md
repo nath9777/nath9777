@@ -22,7 +22,7 @@ I come with experience in the hybrid cloud and storage domain, along with featur
 
 ## 📊 GitHub Stats
 
-![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nath9777&show_icons=true&theme=radical)
+![Atul Nath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nath9777&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nath9777&layout=compact&theme=radical)
 
